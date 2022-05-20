@@ -89,6 +89,14 @@ footer div{
     position: relative;
 }
 
+.hero-cta h2{
+  color: #fce138;
+}
+
+.hero-cta p{
+  color: white;
+}
+
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
