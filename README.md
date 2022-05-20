@@ -13,4 +13,4 @@ https://github.com/malickbax/run-buddy.git
 ## Contribution
 Made with Good Vibes by Malick Ba
 
-### ©️2019 Run Buddy, Inc 
+### ©️2022 Run Buddy, Inc 
