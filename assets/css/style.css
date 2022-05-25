@@ -35,6 +35,7 @@ header nav ul li{
     justify-content: space-between;
     align-items: center;
     list-style: none;
+    display: inline;
 }
 
 header nav ul li a{
@@ -48,7 +49,7 @@ section{
 footer{
     background: #fce138;
     width: 100%;
-    padding: 15px 35px;
+    padding: 35px 35px;
     justify-content: space-between;
     flex-wrap: wrap;
 }
@@ -152,17 +153,17 @@ footer div{
   
 
 .intro{
+      padding-bottom: 20px;
       text-align: center;
+      margin: 0 auto 35px auto;
+      width: 85%;
   }
 
 .intro h2{
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid;
     border-color: #fce138;
-    display: inline-block;
   }
 
 .intro p{
@@ -172,14 +173,19 @@ footer div{
     font-size: 20px;
     display: inline-block;
     margin: 0 auto;
+    text-align: center;
+
   }
 
 
 
   /* Steps */
 .steps{
-    text-align: center;
     background: #fce138;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 100%;
   }
 .steps h2{
     font-size: 55px;
@@ -205,6 +211,7 @@ footer div{
 .steps img{
     width: 15%;
     margin: 10px 0;
+    display: inline-block;
 }
 .steps span{
     font-size: 38px;
@@ -212,7 +219,7 @@ footer div{
 
 /* Trainers section */
 .trainers{
-    text-align: center;
+  text-align: center;
 }
 .trainers h2{
         font-size: 55px;
@@ -290,7 +297,6 @@ footer div{
 
   /* Contact section */
 .contact{
-    text-align: center;
     background: #024e76;
 }
 .contact h2{
@@ -324,4 +330,8 @@ footer div{
 }
 .contact a {
   color: #fce138;
+}
+
+.flex-row{
+  display: flex;
 }
