@@ -17,6 +17,7 @@ font-family: Helvetica, arial, sans-serif;
 
 /* header starts here */
 header{
+<<<<<<< HEAD
 padding: 20px 35px;
 padding: 20px 35px;
 background-color: var(--tertiary-color);
@@ -39,17 +40,34 @@ font-size: 36px;
 color: #fce138;
 margin: 0;   
 text-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+=======
+    padding: 20px 35px;
+    background-color: #39a6b2;
+    display: flex;
+    justify-content: space-between;
+}
+header h1{
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;   
+>>>>>>> 96bcc09 (added flexbox to header)
 }
 header a{
 text-decoration: none;
 color: var(--primary-color);
 }
 
+<<<<<<< HEAD
 header nav ul li a:hover{
 background: var(--primary-color);
 color: var(--secondary-color);
 border-radius: 15px;
 text-shadow: none;
+=======
+header nav{
+    margin: 7px 0;
+>>>>>>> 96bcc09 (added flexbox to header)
 }
 
 header nav {
