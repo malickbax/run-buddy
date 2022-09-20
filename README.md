@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Website
 
 ## Purpose
 A website that offers fitness training services.
@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://malickbax.github.io/run-buddy/
 
 ## Contribution
-Made with Good Vibes by Malick Ba
+Made by Malick Ba in Virginia, USA 
