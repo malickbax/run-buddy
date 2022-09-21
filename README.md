@@ -1,7 +1,7 @@
 # Run Buddy Website
 
-## Purpose
-A website that offers fitness training services.
+## Description
+An e-commerce type of website that offers fitness training services. This was part of a coding bootcamp project.
 
 ## Built With
 * HTML
