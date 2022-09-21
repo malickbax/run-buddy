@@ -1,7 +1,7 @@
 # Run Buddy Website
 
 ## Description
-An e-commerce type of website that offers fitness training services. 
+An e-commerce type of website that offers fitness training services. Website front-end layout if fully adjustable to all computer screen sizes and mobile.
 
 ## Built With
 * HTML
