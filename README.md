@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://malickbax.github.io/run-buddy/
 
 ## Contribution
-Made by Malick Ba in Virginia, USA 
+Made by **Malick Ba**, Software Engineer based in Virginia, USA as part of a George Washington University Coding Bootcamp. 2022.  
