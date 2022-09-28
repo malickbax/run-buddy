@@ -9,7 +9,7 @@ An e-commerce type of website that offers fitness training services. Website fro
 https://malickbax.github.io/run-buddy/
 
 ## Screenshot
-![Generated README](screenshot.jpg)
+![Homepage Screenshot](assets/images/screenshot.jpg)
 
 ## Installation
 No instllation required. Please open the deployed URL below to see product. 
