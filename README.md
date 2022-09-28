@@ -3,8 +3,6 @@
 ## Description
 An e-commerce type of website that offers fitness training services. Website front-end layout if fully adjustable to all computer and mobile screen sizes. Website built with HTML, CSS, Bootstrap and JQuery.
 
-## User Story
-
 ## Deployed URL
 https://malickbax.github.io/run-buddy/
 
