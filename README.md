@@ -10,7 +10,7 @@ https://malickbax.github.io/run-buddy/
 ![Homepage Screenshot](assets/images/screenshot.jpg)
 
 ## Installation
-No instllation required. Please open the deployed URL below to see product. 
+No instllation required. Please open the deployed URL above to see product. 
 
 ## Test
 No testing required
